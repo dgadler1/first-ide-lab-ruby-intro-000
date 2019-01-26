@@ -3,3 +3,5 @@ def restaurant
   cuisine = "american"
   motto = "Welcome to Flavor Town!"
 end
+
+restaurant
