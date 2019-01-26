@@ -1,5 +1,5 @@
-def print_one_plus_one
-  puts 1+1
+def stylish_chef
+  best_hairstyle = "Guy Fieri"
+  return "Martha Stewart"
+  "Guy Fieri"
 end
-
-print_one_plus_one
