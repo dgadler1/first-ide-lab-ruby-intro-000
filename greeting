@@ -1,5 +1,5 @@
-def print_and_return_name
-  puts "Guy Fieri"
-  "Guy Fieri"
+def print_one_plus_one
+  puts 1+1
 end
-print_and_return_name
+
+print_one_plus_one
